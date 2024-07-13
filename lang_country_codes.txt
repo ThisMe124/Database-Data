@@ -1,0 +1,134 @@
+Afrika : af
+Albania : sq
+Amhara : am
+Arabic : ar
+Armenia : hy
+Assam : as
+Aymara : ay
+Azerbaijani : az
+Bambara : bm
+Basque : eu
+Belarusia : be
+Bengali : bn
+Bhojpuri : bho
+Bosnia : bs
+Bulgaria : bg
+Katalan : ca
+Cebu : ceb
+China (Aksara Sederhana) : zh-CN
+China (Aksara Tradisional) : zh-TW
+Korsika : co
+Kroasia : hr
+Ceko : cs
+Denmark : da
+Dhivehi : dv
+Dogri : doi
+Belanda : nl
+Inggris : en
+Esperanto : eo
+Estonia : et
+Ewe : ee
+Filipino (Tagalog) : fil
+Suomi : fi
+French : fr
+Frisian : fy
+Galisia : gl
+Georgia : ka
+German : de
+Yunani : el
+Guarani : gn
+Gujarati : gu
+Kreol Haiti : ht
+Hausa : ha
+Hawaii : haw
+Ibrani : he
+Hindi : hi
+Hmong : hmn
+Hungaria : hu
+Islan : is
+Igbo : ig
+Ilocano : ilo
+Indonesian : id
+Irlandia : ga
+Italian : it
+Jepang : ja
+Jawa : jw
+Kannada : kn
+Kazakh : kk
+Khmer : km
+Kinyarwanda : rw
+Konkani : gom
+Korean : ko
+Krio : kri
+Kurdi : ku
+Kurdi (Sorani) : ckb
+Kyrgyz : ky
+Laos : lo
+Latin : la
+Latvia : lv
+Lingala : ln
+Lituania : lt
+Luganda : lg
+Luksemburg : lb
+Makedonia : mk
+Maithili : mai
+Malagasi : mg
+Melayu : ms
+Malayalam : ml
+Malta : mt
+Maori : mi
+Marathi : mr
+Meitei (Manipur) : mni-Mtei
+Mizo : lus
+Mongolia : mn
+Myanmar (Burma) : my
+Nepal : ne
+Norwegia : no
+Nyanja (Chichewa) : ny
+Odia (Oriya) : or
+Oromo : om
+Pashto : ps
+Persia : fa
+Polski : pl
+Portugis (Portugal, Brasil) : pt
+Punjabi : pa
+Quechua : qu
+Rumania : ro
+Russian : ru
+Samoa : sm
+Sanskrit : sa
+Gaelik Skotlandia : gd
+Sepedi : nso
+Serbia : sr
+Sesotho : st
+Shona : sn
+Sindhi : sd
+Sinhala : si
+Slovakia : sk
+Slovenia : sl
+Somali : so
+Spanish : es
+Sunda : su
+Swahili : sw
+Swensk : sv
+Tagalog (Filipino) : tl
+Tajik : tg
+Tamil : ta
+Tatar : tt
+Telugu : te
+Thai : th
+Tigrinya : ti
+Tsonga : ts
+Turki : tr
+Turkmen : tk
+Twi (Akan) : ak
+Ukraina : uk
+Urdu : ur
+Uyghur : ug
+Uzbekistan : uz
+Vietnam : vi
+Wales : cy
+Xhosa : xh
+Yiddish : yi
+Yoruba : yo
+Zulu : zu

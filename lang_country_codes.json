@@ -1,0 +1,540 @@
+{
+  "available_languange": [
+    {
+      "code": "af",
+      "bahasa": "Afrika"
+    },
+    {
+      "code": "sq",
+      "bahasa": "Albania"
+    },
+    {
+      "code": "am",
+      "bahasa": "Amhara"
+    },
+    {
+      "code": "ar",
+      "bahasa": "Arabic"
+    },
+    {
+      "code": "hy",
+      "bahasa": "Armenia"
+    },
+    {
+      "code": "as",
+      "bahasa": "Assam"
+    },
+    {
+      "code": "ay",
+      "bahasa": "Aymara"
+    },
+    {
+      "code": "az",
+      "bahasa": "Azerbaijani"
+    },
+    {
+      "code": "bm",
+      "bahasa": "Bambara"
+    },
+    {
+      "code": "eu",
+      "bahasa": "Basque"
+    },
+    {
+      "code": "be",
+      "bahasa": "Belarusia"
+    },
+    {
+      "code": "bn",
+      "bahasa": "Bengali"
+    },
+    {
+      "code": "bho",
+      "bahasa": "Bhojpuri"
+    },
+    {
+      "code": "bs",
+      "bahasa": "Bosnia"
+    },
+    {
+      "code": "bg",
+      "bahasa": "Bulgaria"
+    },
+    {
+      "code": "ca",
+      "bahasa": "Katalan"
+    },
+    {
+      "code": "ceb",
+      "bahasa": "Cebu"
+    },
+    {
+      "code": "zh-CN",
+      "bahasa": "China (Aksara Sederhana)"
+    },
+    {
+      "code": "zh-TW",
+      "bahasa": "China (Aksara Tradisional)"
+    },
+    {
+      "code": "co",
+      "bahasa": "Korsika"
+    },
+    {
+      "code": "hr",
+      "bahasa": "Kroasia"
+    },
+    {
+      "code": "cs",
+      "bahasa": "Ceko"
+    },
+    {
+      "code": "da",
+      "bahasa": "Denmark"
+    },
+    {
+      "code": "dv",
+      "bahasa": "Dhivehi"
+    },
+    {
+      "code": "doi",
+      "bahasa": "Dogri"
+    },
+    {
+      "code": "nl",
+      "bahasa": "Belanda"
+    },
+    {
+      "code": "en",
+      "bahasa": "Inggris"
+    },
+    {
+      "code": "eo",
+      "bahasa": "Esperanto"
+    },
+    {
+      "code": "et",
+      "bahasa": "Estonia"
+    },
+    {
+      "code": "ee",
+      "bahasa": "Ewe"
+    },
+    {
+      "code": "fil",
+      "bahasa": "Filipino (Tagalog)"
+    },
+    {
+      "code": "fi",
+      "bahasa": "Suomi"
+    },
+    {
+      "code": "fr",
+      "bahasa": "French"
+    },
+    {
+      "code": "fy",
+      "bahasa": "Frisian"
+    },
+    {
+      "code": "gl",
+      "bahasa": "Galisia"
+    },
+    {
+      "code": "ka",
+      "bahasa": "Georgia"
+    },
+    {
+      "code": "de",
+      "bahasa": "German"
+    },
+    {
+      "code": "el",
+      "bahasa": "Yunani"
+    },
+    {
+      "code": "gn",
+      "bahasa": "Guarani"
+    },
+    {
+      "code": "gu",
+      "bahasa": "Gujarati"
+    },
+    {
+      "code": "ht",
+      "bahasa": "Kreol Haiti"
+    },
+    {
+      "code": "ha",
+      "bahasa": "Hausa"
+    },
+    {
+      "code": "haw",
+      "bahasa": "Hawaii"
+    },
+    {
+      "code": "he",
+      "bahasa": "Ibrani"
+    },
+    {
+      "code": "hi",
+      "bahasa": "Hindi"
+    },
+    {
+      "code": "hmn",
+      "bahasa": "Hmong"
+    },
+    {
+      "code": "hu",
+      "bahasa": "Hungaria"
+    },
+    {
+      "code": "is",
+      "bahasa": "Islan"
+    },
+    {
+      "code": "ig",
+      "bahasa": "Igbo"
+    },
+    {
+      "code": "ilo",
+      "bahasa": "Ilocano"
+    },
+    {
+      "code": "id",
+      "bahasa": "Indonesian"
+    },
+    {
+      "code": "ga",
+      "bahasa": "Irlandia"
+    },
+    {
+      "code": "it",
+      "bahasa": "Italian"
+    },
+    {
+      "code": "ja",
+      "bahasa": "Jepang"
+    },
+    {
+      "code": "jw",
+      "bahasa": "Jawa"
+    },
+    {
+      "code": "kn",
+      "bahasa": "Kannada"
+    },
+    {
+      "code": "kk",
+      "bahasa": "Kazakh"
+    },
+    {
+      "code": "km",
+      "bahasa": "Khmer"
+    },
+    {
+      "code": "rw",
+      "bahasa": "Kinyarwanda"
+    },
+    {
+      "code": "gom",
+      "bahasa": "Konkani"
+    },
+    {
+      "code": "ko",
+      "bahasa": "Korean"
+    },
+    {
+      "code": "kri",
+      "bahasa": "Krio"
+    },
+    {
+      "code": "ku",
+      "bahasa": "Kurdi"
+    },
+    {
+      "code": "ckb",
+      "bahasa": "Kurdi (Sorani)"
+    },
+    {
+      "code": "ky",
+      "bahasa": "Kyrgyz"
+    },
+    {
+      "code": "lo",
+      "bahasa": "Laos"
+    },
+    {
+      "code": "la",
+      "bahasa": "Latin"
+    },
+    {
+      "code": "lv",
+      "bahasa": "Latvia"
+    },
+    {
+      "code": "ln",
+      "bahasa": "Lingala"
+    },
+    {
+      "code": "lt",
+      "bahasa": "Lituania"
+    },
+    {
+      "code": "lg",
+      "bahasa": "Luganda"
+    },
+    {
+      "code": "lb",
+      "bahasa": "Luksemburg"
+    },
+    {
+      "code": "mk",
+      "bahasa": "Makedonia"
+    },
+    {
+      "code": "mai",
+      "bahasa": "Maithili"
+    },
+    {
+      "code": "mg",
+      "bahasa": "Malagasi"
+    },
+    {
+      "code": "ms",
+      "bahasa": "Melayu"
+    },
+    {
+      "code": "ml",
+      "bahasa": "Malayalam"
+    },
+    {
+      "code": "mt",
+      "bahasa": "Malta"
+    },
+    {
+      "code": "mi",
+      "bahasa": "Maori"
+    },
+    {
+      "code": "mr",
+      "bahasa": "Marathi"
+    },
+    {
+      "code": "mni-Mtei",
+      "bahasa": "Meitei (Manipur)"
+    },
+    {
+      "code": "lus",
+      "bahasa": "Mizo"
+    },
+    {
+      "code": "mn",
+      "bahasa": "Mongolia"
+    },
+    {
+      "code": "my",
+      "bahasa": "Myanmar (Burma)"
+    },
+    {
+      "code": "ne",
+      "bahasa": "Nepal"
+    },
+    {
+      "code": "no",
+      "bahasa": "Norwegia"
+    },
+    {
+      "code": "ny",
+      "bahasa": "Nyanja (Chichewa)"
+    },
+    {
+      "code": "or",
+      "bahasa": "Odia (Oriya)"
+    },
+    {
+      "code": "om",
+      "bahasa": "Oromo"
+    },
+    {
+      "code": "ps",
+      "bahasa": "Pashto"
+    },
+    {
+      "code": "fa",
+      "bahasa": "Persia"
+    },
+    {
+      "code": "pl",
+      "bahasa": "Polski"
+    },
+    {
+      "code": "pt",
+      "bahasa": "Portugis (Portugal, Brasil)"
+    },
+    {
+      "code": "pa",
+      "bahasa": "Punjabi"
+    },
+    {
+      "code": "qu",
+      "bahasa": "Quechua"
+    },
+    {
+      "code": "ro",
+      "bahasa": "Rumania"
+    },
+    {
+      "code": "ru",
+      "bahasa": "Russian"
+    },
+    {
+      "code": "sm",
+      "bahasa": "Samoa"
+    },
+    {
+      "code": "sa",
+      "bahasa": "Sanskrit"
+    },
+    {
+      "code": "gd",
+      "bahasa": "Gaelik Skotlandia"
+    },
+    {
+      "code": "nso",
+      "bahasa": "Sepedi"
+    },
+    {
+      "code": "sr",
+      "bahasa": "Serbia"
+    },
+    {
+      "code": "st",
+      "bahasa": "Sesotho"
+    },
+    {
+      "code": "sn",
+      "bahasa": "Shona"
+    },
+    {
+      "code": "sd",
+      "bahasa": "Sindhi"
+    },
+    {
+      "code": "si",
+      "bahasa": "Sinhala"
+    },
+    {
+      "code": "sk",
+      "bahasa": "Slovakia"
+    },
+    {
+      "code": "sl",
+      "bahasa": "Slovenia"
+    },
+    {
+      "code": "so",
+      "bahasa": "Somali"
+    },
+    {
+      "code": "es",
+      "bahasa": "Spanish"
+    },
+    {
+      "code": "su",
+      "bahasa": "Sunda"
+    },
+    {
+      "code": "sw",
+      "bahasa": "Swahili"
+    },
+    {
+      "code": "sv",
+      "bahasa": "Swensk"
+    },
+    {
+      "code": "tl",
+      "bahasa": "Tagalog (Filipino)"
+    },
+    {
+      "code": "tg",
+      "bahasa": "Tajik"
+    },
+    {
+      "code": "ta",
+      "bahasa": "Tamil"
+    },
+    {
+      "code": "tt",
+      "bahasa": "Tatar"
+    },
+    {
+      "code": "te",
+      "bahasa": "Telugu"
+    },
+    {
+      "code": "th",
+      "bahasa": "Thai"
+    },
+    {
+      "code": "ti",
+      "bahasa": "Tigrinya"
+    },
+    {
+      "code": "ts",
+      "bahasa": "Tsonga"
+    },
+    {
+      "code": "tr",
+      "bahasa": "Turki"
+    },
+    {
+      "code": "tk",
+      "bahasa": "Turkmen"
+    },
+    {
+      "code": "ak",
+      "bahasa": "Twi (Akan)"
+    },
+    {
+      "code": "uk",
+      "bahasa": "Ukraina"
+    },
+    {
+      "code": "ur",
+      "bahasa": "Urdu"
+    },
+    {
+      "code": "ug",
+      "bahasa": "Uyghur"
+    },
+    {
+      "code": "uz",
+      "bahasa": "Uzbekistan"
+    },
+    {
+      "code": "vi",
+      "bahasa": "Vietnam"
+    },
+    {
+      "code": "cy",
+      "bahasa": "Wales"
+    },
+    {
+      "code": "xh",
+      "bahasa": "Xhosa"
+    },
+    {
+      "code": "yi",
+      "bahasa": "Yiddish"
+    },
+    {
+      "code": "yo",
+      "bahasa": "Yoruba"
+    },
+    {
+      "code": "zu",
+      "bahasa": "Zulu"
+    }
+  ]
+}

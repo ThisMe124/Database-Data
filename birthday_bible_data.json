@@ -1,304 +1,562 @@
 [
   {
     verse: 'Keluaran 20 : 12',
-    contentd: 'Hormatilah ayahmu dan ibumu, supaya lanjut umurmu di tanah yang diberikan Tuhan, Allahmu, kepadamu.'
+    content: 'Hormatilah ayahmu dan ibumu, supaya lanjut umurmu di tanah yang diberikan Tuhan, Allahmu, kepadamu.'
   },
   {
     verse: 'Amsal 3 : 1-2',
-    contentd: 'Hai anakku, janganlah engkau melupakan ajaranku, dan biarlah hatimu memelihara perintahku, karena panjang umur dan lanjut usia serta sejahtera akan ditambahkannya kepadamu.'
+    content: 'Hai anakku, janganlah engkau melupakan ajaranku, dan biarlah hatimu memelihara perintahku, karena panjang umur dan lanjut usia serta sejahtera akan ditambahkannya kepadamu.'
   },
   {
     verse: 'Amsal 3 : 5-6',
-    contentd: 'Percayalah kepada Tuhan dengan segenap hatimu, dan janganlah bersandar kepada pengertianmu sendiri. Akuilah Dia dalam segala lakumu, maka Ia akan meluruskan jalanmu.'
+    content: 'Percayalah kepada Tuhan dengan segenap hatimu, dan janganlah bersandar kepada pengertianmu sendiri. Akuilah Dia dalam segala lakumu, maka Ia akan meluruskan jalanmu.'
   },
   {
     verse: 'Amsal 3 : 16',
-    contentd: 'Umur panjang ada ditangan kanannya, ditangan kirinya kekayaan dan kehormatan.'
+    content: 'Umur panjang ada ditangan kanannya, ditangan kirinya kekayaan dan kehormatan.'
   },
   {
     verse: 'Amsal 4 : 10',
-    contentd: 'Hai anakku, dengarkanlah dan terimalah perkataanku, supaya tahun hidupmu menjadi banyak.'
+    content: 'Hai anakku, dengarkanlah dan terimalah perkataanku, supaya tahun hidupmu menjadi banyak.'
   },
   {
     verse: 'Amsal 9 : 11',
-    contentd: 'Karena oleh aku (hikmat) umurmu diperpanjang dan tahun-tahun hidupmu ditambah.'
+    content: 'Karena oleh aku (hikmat) umurmu diperpanjang dan tahun-tahun hidupmu ditambah.'
   },
   {
     verse: 'Amsal 10 : 27',
-    contentd: 'Takut akan Tuhan memperpanjang umur, tetapi tahun-tahun orang fasik diperpendek.'
+    content: 'Takut akan Tuhan memperpanjang umur, tetapi tahun-tahun orang fasik diperpendek.'
   },
   {
     verse: 'Amsal 11 : 19',
-    contentd: 'Siapa berpegang pada kebenaran yang sejati, menuju hidup, tetapi siapa mengejar kejahatan, menuju kematian.'
+    content: 'Siapa berpegang pada kebenaran yang sejati, menuju hidup, tetapi siapa mengejar kejahatan, menuju kematian.'
   },
   {
     verse: 'Amsal 16 : 20',
-    contentd: 'Siapa memperhatikan firman akan mendapat kebaikan, dan berbahagialah orang yang percaya kepada Tuhan.'
+    content: 'Siapa memperhatikan firman akan mendapat kebaikan, dan berbahagialah orang yang percaya kepada Tuhan.'
   },
   {
     verse: 'Mazmur 16 : 11',
-    contentd: 'Engkau memberitahukan kepadaku jalan kehidupan, di hadapanMu ada sukacita berlimpah-limpah, ditangan kananMu ada nikmat senantiasa.'
+    content: 'Engkau memberitahukan kepadaku jalan kehidupan, di hadapanMu ada sukacita berlimpah-limpah, ditangan kananMu ada nikmat senantiasa.'
   },
   {
     verse: 'Mazmur 20 : 4',
-    contentd: 'Kiranya diberikanNya kepadamu apa yang kau kehendaki dan dijadikanNya berhasil apa yang kau rancangkan.'
+    content: 'Kiranya diberikanNya kepadamu apa yang kau kehendaki dan dijadikanNya berhasil apa yang kau rancangkan.'
   },
   {
     verse: 'Mazmur 22 : 11',
-    contentd: 'KepadaMu aku diserahkan sejak aku lahir, sejak dalam kandungan ibuku Engkaulah Allahku.'
+    content: 'KepadaMu aku diserahkan sejak aku lahir, sejak dalam kandungan ibuku Engkaulah Allahku.'
   },
   {
     verse: 'Mazmur 23 : 6',
-    contentd: 'Kebajikan dan kemurahan belaka akan mengikuti aku, seumur hidupku; dan aku akan diam dalam rumah Tuhan sepanjang masa.'
+    content: 'Kebajikan dan kemurahan belaka akan mengikuti aku, seumur hidupku; dan aku akan diam dalam rumah Tuhan sepanjang masa.'
   },
   {
     verse: 'Mazmur 37 : 4',
-    contentd: 'Dan bergembiralah karena Tuhan ; maka Ia akan memberikan kepadamu apa yang diinginkan hatimu.'
+    content: 'Dan bergembiralah karena Tuhan ; maka Ia akan memberikan kepadamu apa yang diinginkan hatimu.'
   },
   {
     verse: 'Mazmur 62 : 8',
-    contentd: 'Pada Allah ada keselamatanku dan kemuliaanku; gunung batu kekuatanku, tempat perlindungan ialah Allah'
+    content: 'Pada Allah ada keselamatanku dan kemuliaanku; gunung batu kekuatanku, tempat perlindungan ialah Allah'
   },
   {
     verse: 'Mazmur 63 : 8',
-    contentd: 'Sungguh engkau telah menjadi pertolonganku, dan dalam naungan sayapMu aku bersorak-sorai'
+    content: 'Sungguh engkau telah menjadi pertolonganku, dan dalam naungan sayapMu aku bersorak-sorai'
   },
   {
     verse: 'Mazmur 65 : 12',
-    contentd: 'Engkau memahkotai tahun dengan kebaikanMu, jejakMu mengeluarkan lemak.'
+    content: 'Engkau memahkotai tahun dengan kebaikanMu, jejakMu mengeluarkan lemak.'
   },
   {
     verse: 'Mazmur 66 : 20',
-    contentd: 'Terpujilah Allah, yang tidak menolak doaku dan tidak menjauhkan kasih setiaNya dari padaku.'
+    content: 'Terpujilah Allah, yang tidak menolak doaku dan tidak menjauhkan kasih setiaNya dari padaku.'
   },
   {
     verse: 'Mazmur 71 : 6-8',
-    contentd: 'Kepada Engkaulah aku bertopang mulai dari kandungan, Engkau telah mengeluarkan aku dari perut ibuku; Engkau selalu ku puji-puji. Bagi banyak orang aku seperti tanda ajaib, karena Engkaulah tempat perlindunganku yang kuat. Mulutku penuh dengan puji-pujian kepadaMu dengan penghormatan kepadaMu sepanjang hari.'
+    content: 'Kepada Engkaulah aku bertopang mulai dari kandungan, Engkau telah mengeluarkan aku dari perut ibuku; Engkau selalu ku puji-puji. Bagi banyak orang aku seperti tanda ajaib, karena Engkaulah tempat perlindunganku yang kuat. Mulutku penuh dengan puji-pujian kepadaMu dengan penghormatan kepadaMu sepanjang hari.'
   },
   {
     verse: 'Mazmur 90 : 12',
-    contentd: 'Ajarlah kami menghitung hari-hari kami sedemikian, hingga kami beroleh hati yang bijaksana.'
+    content: 'Ajarlah kami menghitung hari-hari kami sedemikian, hingga kami beroleh hati yang bijaksana.'
   },
   {
     verse: 'Mazmur 91 : 11',
-    contentd: 'Sebab malaikat-malaikatNya akan diperintahkanNya kepadamu untuk menjaga engkau di segala jalanmu.'
+    content: 'Sebab malaikat-malaikatNya akan diperintahkanNya kepadamu untuk menjaga engkau di segala jalanmu.'
   },
   {
     verse: 'Mazmur 91 : 16',
-    contentd: 'Dengan panjang umur akan Kukenyangkan dia, dan akan Kuperlihatkan kepadanya keselamatan dari padaKu.'
+    content: 'Dengan panjang umur akan Kukenyangkan dia, dan akan Kuperlihatkan kepadanya keselamatan dari padaKu.'
   },
   {
     verse: 'Mazmur 92 : 13-15',
-    contentd: 'Orang benar akan bertunas seperti pohon kurma, akan tumbuh subur seperti pohon aras di Libanon; mereka yang ditanam di bait Tuhan akan bertunas di pelataran Allah kita. Pada masa tuapun mereka masih berbuah, menjadi gemuk dan segar untuk memberitakan, bahwa Tuhan itu benar, bahwa Ia gunung batuku dan tidak ada kecurangan padaNya.'
+    content: 'Orang benar akan bertunas seperti pohon kurma, akan tumbuh subur seperti pohon aras di Libanon; mereka yang ditanam di bait Tuhan akan bertunas di pelataran Allah kita. Pada masa tuapun mereka masih berbuah, menjadi gemuk dan segar untuk memberitakan, bahwa Tuhan itu benar, bahwa Ia gunung batuku dan tidak ada kecurangan padaNya.'
   },
   {
     verse: 'Mazmur 107 : 1',
-    contentd: 'Bersyukurlah kepada Tuhan, sebab Ia baik ! Bahwasanya untuk selama-lamanya kasih setiaNya.'
+    content: 'Bersyukurlah kepada Tuhan, sebab Ia baik ! Bahwasanya untuk selama-lamanya kasih setiaNya.'
   },
   {
     verse: 'Mazmur 118 : 24',
-    contentd: 'Inilah hari yang dijadikan Tuhan, marilah kita bersorak-sorak dan bersukacita karenaNya!'
+    content: 'Inilah hari yang dijadikan Tuhan, marilah kita bersorak-sorak dan bersukacita karenaNya!'
   },
   {
     verse: 'Mazmur 133 : 3',
-    contentd: 'Seperti embun gunung Hermon yang turun ke atas gunung-gunung Sion. Sebab kesanalah Tuhan memerintahkan berkat, kehidupan untuk selama-lamanya.'
+    content: 'Seperti embun gunung Hermon yang turun ke atas gunung-gunung Sion. Sebab kesanalah Tuhan memerintahkan berkat, kehidupan untuk selama-lamanya.'
   },
   {
     verse: 'Mazmur 139 : 14',
-    contentd: 'aku memujiMu oleh karena kejadianku dahsyat dan ajaib apa yang Kau buat, dan jiwaku benar-benar menyadarinya.'
+    content: 'aku memujiMu oleh karena kejadianku dahsyat dan ajaib apa yang Kau buat, dan jiwaku benar-benar menyadarinya.'
   },
   {
     verse: 'Mazmur 145 : 17',
-    contentd: 'Tuhan itu adil dalam segala hal jalanNya dan penuh kasih serta setia dalam segala perbuatanNya.'
+    content: 'Tuhan itu adil dalam segala hal jalanNya dan penuh kasih serta setia dalam segala perbuatanNya.'
   },
   {
     verse: 'Mazmur 147 : 11',
-    contentd: 'Tuhan senang kepada orang-orang yang takut akan Dia, kepada orang-orang yang berharap akan kasih setiaNya.'
+    content: 'Tuhan senang kepada orang-orang yang takut akan Dia, kepada orang-orang yang berharap akan kasih setiaNya.'
   },
   {
     verse: 'Bilangan 6 : 24-26',
-    contentd: 'Tuhan memberkati engkau dan melindungi engkau;Tuhan menyinari engkau dengan wajahNya dan memberi engkau kasih karunia;Tuhan menghadapkan wajahNya kepadamu dan memberi engkau damai sejahtera.Demikianlah harus mereka meletakkan namaKu atas orang Israel, maka Aku akan memberkati mereka.'
+    content: 'Tuhan memberkati engkau dan melindungi engkau;Tuhan menyinari engkau dengan wajahNya dan memberi engkau kasih karunia;Tuhan menghadapkan wajahNya kepadamu dan memberi engkau damai sejahtera.Demikianlah harus mereka meletakkan namaKu atas orang Israel, maka Aku akan memberkati mereka.'
   },
   {
     verse: 'Yosua 1 : 9',
-    contentd: 'Bukankah telah Kuperintahkan kepadamu : kuatkan dan teguhkan hatimu? Janganlah kecut dan tawar hati, sebab Tuhan, Allahmu, menyertai engkau, kemanapun engkau pergi.'
+    content: 'Bukankah telah Kuperintahkan kepadamu : kuatkan dan teguhkan hatimu? Janganlah kecut dan tawar hati, sebab Tuhan, Allahmu, menyertai engkau, kemanapun engkau pergi.'
   },
   {
     verse: 'Pengkhotbah 3 : 11',
-    contentd: 'Ia membuat segala sesuatu indah pada waktunya, bahkan Ia memberikan kekalan dalam hati mereka. Tetapi manusia tidak dapat menyelami pekerjaan yang dilakukan Allah dari awal sampai akhir.'
+    content: 'Ia membuat segala sesuatu indah pada waktunya, bahkan Ia memberikan kekalan dalam hati mereka. Tetapi manusia tidak dapat menyelami pekerjaan yang dilakukan Allah dari awal sampai akhir.'
   },
   {
     verse: 'Pengkotbah 11 : 8',
-    contentd: 'Oleh sebab itu jikalau orang panjang umurnya, biarlah ia bersukacita di dalamnya, tetapi hendaklah ia ingat akan hari-hari yang gelap, karena banyak jumlahnya. Segala sesuatu yang datang adalah kesia-siaan.'
+    content: 'Oleh sebab itu jikalau orang panjang umurnya, biarlah ia bersukacita di dalamnya, tetapi hendaklah ia ingat akan hari-hari yang gelap, karena banyak jumlahnya. Segala sesuatu yang datang adalah kesia-siaan.'
   },
   {
     verse: 'Yeremia 17 : 7',
-    contentd: 'Diberkatilah orang yang mengandalkan Tuhan, yang menaruh harapannya pada Tuhan!'
+    content: 'Diberkatilah orang yang mengandalkan Tuhan, yang menaruh harapannya pada Tuhan!'
   },
   {
     verse: 'Yeremia 29 : 11',
-    contentd: 'Sebab Aku ini mengetahui rancangan-rancangan apa yang ada padaKu mengenai kamu, demikianlah firman Tuhan, yaitu rancangan damai sejahtera dan bukan rancangan kecelakaan, untuk memberikan kepadamu hari depan yang penuh harapan.'
+    content: 'Sebab Aku ini mengetahui rancangan-rancangan apa yang ada padaKu mengenai kamu, demikianlah firman Tuhan, yaitu rancangan damai sejahtera dan bukan rancangan kecelakaan, untuk memberikan kepadamu hari depan yang penuh harapan.'
   },
   {
     verse: 'Ratapan 3 : 22 – 23',
-    contentd: 'Tak berkesudahan kasih setia Tuhan, tak habis-habisnya rahmatNya, selalu baru tiap pagi; besar kesetiaanMu.'
+    content: 'Tak berkesudahan kasih setia Tuhan, tak habis-habisnya rahmatNya, selalu baru tiap pagi; besar kesetiaanMu.'
   },
   {
     verse: 'Zefanya 3 : 17',
-    contentd: 'Tuhan Allahmu di antaramu sebagai pahlawan yang memberi kemenangan. Ia bergirang karena engkau dengan sukacita, Ia membaharui engkau dalam kasih Nya, Ia bersorak-sorai karena engkau dengan sorak-sorai.'
+    content: 'Tuhan Allahmu di antaramu sebagai pahlawan yang memberi kemenangan. Ia bergirang karena engkau dengan sukacita, Ia membaharui engkau dalam kasih Nya, Ia bersorak-sorai karena engkau dengan sorak-sorai.'
   },
   {
     verse: 'Ulangan 5 : 33',
-    contentd: 'Segenap jalan, yang diperintahkanmu oleh Tuhan, Allahmu, haruslah kamu jalani, supaya kamu hidup dan baik keadaanmu serta lanjut umurmu di negri yang akan kamu duduki.'
+    content: 'Segenap jalan, yang diperintahkanmu oleh Tuhan, Allahmu, haruslah kamu jalani, supaya kamu hidup dan baik keadaanmu serta lanjut umurmu di negri yang akan kamu duduki.'
   },
   {
     verse: 'Ulangan 28 : 8',
-    contentd: 'Tuhan akan memerintahkan berkat ke atasmu di dalam lumbungmu dan di dalam segala urusanmu; Ia akan memberkati engkau di negeri yang diberikan kepadamu oleh Tuhan, Allahmu.'
+    content: 'Tuhan akan memerintahkan berkat ke atasmu di dalam lumbungmu dan di dalam segala urusanmu; Ia akan memberkati engkau di negeri yang diberikan kepadamu oleh Tuhan, Allahmu.'
   },
   {
     verse: 'Yesaya 46 : 4',
-    contentd: 'Sampai masa tuamu Aku tetap dia dan sampai masih putih rambutmu AKu menggendong kamu. Aku telah melakukannya dan mau menanggung kamu terus; Aku mau memikul kamu dan menyelamatkan kamu.'
+    content: 'Sampai masa tuamu Aku tetap dia dan sampai masih putih rambutmu AKu menggendong kamu. Aku telah melakukannya dan mau menanggung kamu terus; Aku mau memikul kamu dan menyelamatkan kamu.'
   },
   {
     verse: '2 Samuel 7 : 29',
-    contentd: 'Kiranya Engkau sekarang berkenan memberkati keluarga hambaMu ini, supaya tetap ada di hadapanMu untuk selama-lamanya. Sebab, ya Tuhan Allah, Engkau sendirilah yang berfirman dan oleh karena berkatMu keluarga hamba-hambaMu ini diberkati untuk selama-lamanya.'
+    content: 'Kiranya Engkau sekarang berkenan memberkati keluarga hambaMu ini, supaya tetap ada di hadapanMu untuk selama-lamanya. Sebab, ya Tuhan Allah, Engkau sendirilah yang berfirman dan oleh karena berkatMu keluarga hamba-hambaMu ini diberkati untuk selama-lamanya.'
   },
   {
     verse: 'Yohanes 3 ; 16',
-    contentd: 'Karena begitu besar kasih Allah akan dunia ini, sehingga Ia telah mengaruniakan AnakNya yang tunggal, supaya setiap orang yang percaya kepadaNya tidak binasa, melainkan beroleh hidup yang kekal.'
+    content: 'Karena begitu besar kasih Allah akan dunia ini, sehingga Ia telah mengaruniakan AnakNya yang tunggal, supaya setiap orang yang percaya kepadaNya tidak binasa, melainkan beroleh hidup yang kekal.'
   },
   {
     verse: 'Yohanes 14 : 26',
-    contentd: 'Tetapi penghibur, yaitu Roh Kudus yang akan diutus oleh Bapa dalam nama-Ku, Dialah yang akan mengajarkan segala sesuatu kepadamu dan akan mengingatkan kamu akan semua yang telah Ku katakan kepadamu.'
+    content: 'Tetapi penghibur, yaitu Roh Kudus yang akan diutus oleh Bapa dalam nama-Ku, Dialah yang akan mengajarkan segala sesuatu kepadamu dan akan mengingatkan kamu akan semua yang telah Ku katakan kepadamu.'
   },
   {
     verse: 'Yohanes 15 : 7',
-    contentd: 'Jikalau kamu tinggal di dalam Aku dan firman-Ku tinggal di dalam kamu, mintalah apa saja yang kamu kehendaki, dan kamu akan menerimanya.'
+    content: 'Jikalau kamu tinggal di dalam Aku dan firman-Ku tinggal di dalam kamu, mintalah apa saja yang kamu kehendaki, dan kamu akan menerimanya.'
   },
   {
     verse: 'Yohanes 16 : 21',
-    contentd: 'Seorang perempuan berduka cita pada saat dia melahirkan, tetapi sesudah dia melahirkan anaknya, dia tidak ingat lagi akan penderitaannya karena kegembiraan bahwa seorang manusia telah dilahirkan ke dunia.'
+    content: 'Seorang perempuan berduka cita pada saat dia melahirkan, tetapi sesudah dia melahirkan anaknya, dia tidak ingat lagi akan penderitaannya karena kegembiraan bahwa seorang manusia telah dilahirkan ke dunia.'
   },
   {
     verse: '3 Yohanes 1 : 2',
-    contentd: 'Saudaraku yang terkasih, aku berdoa, semoga engkau baik-baik dan sehat-sehat saja dalam segala sesuatu, sama seperti jiwamu baik-baik saja.'
+    content: 'Saudaraku yang terkasih, aku berdoa, semoga engkau baik-baik dan sehat-sehat saja dalam segala sesuatu, sama seperti jiwamu baik-baik saja.'
   },
   {
     verse: 'Efesus 1 : 14',
-    contentd: 'Dan Roh Kudus itu adalah jaminan bagi kita sampai memperoleh kita seluruhnya, yaitu penebusan yang menjadikan kita milik Allah, untuk memuji kemuliaannya.'
+    content: 'Dan Roh Kudus itu adalah jaminan bagi kita sampai memperoleh kita seluruhnya, yaitu penebusan yang menjadikan kita milik Allah, untuk memuji kemuliaannya.'
   },
   {
     verse: 'Efesus 2 : 10',
-    contentd: 'Karena kita ini buatan Allah, diciptakan dalam Kristus Yesus untuk melakukan pekerjaan baik, yang dipersiapkan Allah sebelumnya. Ia mau, supaya kita hidup di dalamnya.'
+    content: 'Karena kita ini buatan Allah, diciptakan dalam Kristus Yesus untuk melakukan pekerjaan baik, yang dipersiapkan Allah sebelumnya. Ia mau, supaya kita hidup di dalamnya.'
   },
   {
     verse: 'Yakobus 1 : 17',
-    contentd: 'Setiap pemberian yang baik dan setiap anugerah yang sempurna, datangnya dari atas, diturunkan dari Bapa segala terang; padaNya tidak ada perubahan atau bayangan karena pertukaran.'
+    content: 'Setiap pemberian yang baik dan setiap anugerah yang sempurna, datangnya dari atas, diturunkan dari Bapa segala terang; padaNya tidak ada perubahan atau bayangan karena pertukaran.'
   },
   {
     verse: 'Yakobus 1 : 18',
-    contentd: 'Atas kehendakNya sendiri, Ia telah menjadikan kita oleh firman kebenaran, supaya kita pada tingkat yang tertentu menjadi anak sulung di atas semua ciptaanNya.'
+    content: 'Atas kehendakNya sendiri, Ia telah menjadikan kita oleh firman kebenaran, supaya kita pada tingkat yang tertentu menjadi anak sulung di atas semua ciptaanNya.'
   },
   {
     verse: 'Yakobus 4 : 8',
-    contentd: 'Mendekatlah kepada Allah, dan Ia akan mendekat kepadamu. Tahirkanlah tanganmu, hai kamu orang-orang berdosa ! dan sucikanlah hatimu, hai kamu yang mendua hati!'
+    content: 'Mendekatlah kepada Allah, dan Ia akan mendekat kepadamu. Tahirkanlah tanganmu, hai kamu orang-orang berdosa ! dan sucikanlah hatimu, hai kamu yang mendua hati!'
   },
   {
     verse: 'Matius 5 : 8',
-    contentd: 'Berbahagialah orang yang suci hatinya, karena mereka akan melihat Allah.'
+    content: 'Berbahagialah orang yang suci hatinya, karena mereka akan melihat Allah.'
   },
   {
     verse: 'Matius 6 : 33',
-    contentd: 'Tetapi carilah dahulu Kerajaan Allah dan kebenarannya, maka semuanya itu akan ditambahkan kepadamu.'
+    content: 'Tetapi carilah dahulu Kerajaan Allah dan kebenarannya, maka semuanya itu akan ditambahkan kepadamu.'
   },
   {
     verse: 'Roma 5 : 5',
-    contentd: 'Dan pengharapan tidak mengecewakan, karena kasih Allah telah dicurahkan di dalam hari kita oleh Roh Kudus yang telah dikaruniakan kepada kita.'
+    content: 'Dan pengharapan tidak mengecewakan, karena kasih Allah telah dicurahkan di dalam hari kita oleh Roh Kudus yang telah dikaruniakan kepada kita.'
   },
   {
     verse: 'Roma 15 : 13',
-    contentd: 'Semoga Allah, sumber pengharapan, memenuhi kamu dengan segala sukacita dan damai sejahtera dalam iman kamu, supaya oleh kekuatan Roh Kudus kamu berlimpah-limpah dalam pengharapan.'
+    content: 'Semoga Allah, sumber pengharapan, memenuhi kamu dengan segala sukacita dan damai sejahtera dalam iman kamu, supaya oleh kekuatan Roh Kudus kamu berlimpah-limpah dalam pengharapan.'
   },
   {
     verse: 'Galatia 6 : 9',
-    contentd: 'Janganlah kita jemu-jemu berbuat baik, karena apabila sudah datang waktunya kita akan menuai, jika kita tidak menjadi lemah.'
+    content: 'Janganlah kita jemu-jemu berbuat baik, karena apabila sudah datang waktunya kita akan menuai, jika kita tidak menjadi lemah.'
   },
   {
     verse: '1 Korintus 1 : 4',
-    contentd: 'Aku senantiasa mengucap syukur kepada Allahku karena kamu atas kasih karunia Allah yang dianugerahkaNya kepada kamu dalam Kristus Yesus.'
+    content: 'Aku senantiasa mengucap syukur kepada Allahku karena kamu atas kasih karunia Allah yang dianugerahkaNya kepada kamu dalam Kristus Yesus.'
   },
   {
     verse: '1 Korintus 1 : 5',
-    contentd: 'Sebab di dalam dia kamu telah menjadi kaya dalam segala hal : dalam segala macam perkataan dan segala macam pengetahuan.'
+    content: 'Sebab di dalam dia kamu telah menjadi kaya dalam segala hal : dalam segala macam perkataan dan segala macam pengetahuan.'
   },
   {
     verse: '1 Korintus 11 : 12',
-    contentd: 'Sebab sama seperti perempuan besar dari laki-laki, demikian pula laki-laki dilahirkan oleh perempuan dan segala sesuatu berasal dari Allah.'
+    content: 'Sebab sama seperti perempuan besar dari laki-laki, demikian pula laki-laki dilahirkan oleh perempuan dan segala sesuatu berasal dari Allah.'
   },
   {
     verse: '2 Korintus 4 : 16',
-    contentd: 'Sebab itu kamu tidak tawar hati, tetapi meskipun manusia lahiriah kami semakin merosot, namun manusia batiniah kami dibaharui dari sehari ke sehari.'
+    content: 'Sebab itu kamu tidak tawar hati, tetapi meskipun manusia lahiriah kami semakin merosot, namun manusia batiniah kami dibaharui dari sehari ke sehari.'
   },
   {
     verse: '2 Korintus 9 : 15',
-    contentd: 'Syukur kepada Allah karena karuniaNya yang tak terkatakan itu!'
+    content: 'Syukur kepada Allah karena karuniaNya yang tak terkatakan itu!'
   },
   {
     verse: '1 Tesalonika 5 : 16-18',
-    contentd: 'Bersukacitalah senantiasa. Tetaplah berdoa. Mengucap syukurlah dalam segala hal. sebab itulah yang dikehendaki Allah di dalam Kristus Yesus bagi kamu.'
+    content: 'Bersukacitalah senantiasa. Tetaplah berdoa. Mengucap syukurlah dalam segala hal. sebab itulah yang dikehendaki Allah di dalam Kristus Yesus bagi kamu.'
   },
   {
     verse: 'Filipi 1 : 2',
-    contentd: 'Kasih karunia dan damai sejahtera dari Allah, Bapa kita, dan dari Tuhan Yesus Kristus menyertai kamu.'
+    content: 'Kasih karunia dan damai sejahtera dari Allah, Bapa kita, dan dari Tuhan Yesus Kristus menyertai kamu.'
   },
   {
     verse: 'Filipi 1 : 3',
-    contentd: 'Aku mengucap syukur kepada Allahku setiap kali aku mengingat kamu.'
+    content: 'Aku mengucap syukur kepada Allahku setiap kali aku mengingat kamu.'
   },
   {
     verse: 'Filipi 1 : 4',
-    contentd: 'Dan setiap kali aku berdoa untuk kamu semua, aku selalu berdoa dengan sukacita.'
+    content: 'Dan setiap kali aku berdoa untuk kamu semua, aku selalu berdoa dengan sukacita.'
   },
   {
     verse: 'Filipi 1 : 6',
-    contentd: 'Akan hal ini aku yakin sepenuhnya, yaitu Ia, yang memulai pekerjaan yang baik diantara kamu akan meneruskannya sampai pada akhirnya pada hari Kristus Yesus.'
+    content: 'Akan hal ini aku yakin sepenuhnya, yaitu Ia, yang memulai pekerjaan yang baik diantara kamu akan meneruskannya sampai pada akhirnya pada hari Kristus Yesus.'
   },
   {
     verse: 'Ibrani 13 : 4',
-    contentd: 'Hendaklahlah kamu semua penuh hormat terhadap perkawinan dan janganlah kamu mencemarkan tempat tidur, sebab orang-orang sundal dan pezinah akan dihakimi Allah.'
+    content: 'Hendaklahlah kamu semua penuh hormat terhadap perkawinan dan janganlah kamu mencemarkan tempat tidur, sebab orang-orang sundal dan pezinah akan dihakimi Allah.'
   },
   {
     verse: 'Kolose 3 : 15',
-    contentd: 'Hendaklah damai sejahtera Kristus memerintah dalam hatimu, karena untuk itulah kamu telah dipanggil menjadi satu tubuh. Dan bersyukurlah.'
+    content: 'Hendaklah damai sejahtera Kristus memerintah dalam hatimu, karena untuk itulah kamu telah dipanggil menjadi satu tubuh. Dan bersyukurlah.'
   },
   {
     verse: '1 Petrus 4 : 8',
-    contentd: 'Tetapi yang terutama : kasihilah sungguh-sungguh seorang akan yang lain, sebab kasih menutupi banyak sekali dosa.'
+    content: 'Tetapi yang terutama : kasihilah sungguh-sungguh seorang akan yang lain, sebab kasih menutupi banyak sekali dosa.'
   },
   {
     verse: 'Markus 10 : 6-9',
-    contentd: 'Sebab pada awal dunia, Allah menjadikan mereka laki-laki dan perempuan, sebab itu laki-laki akan meninggalkan ayahnya dan ibunya dan bersatu dengan istrinya, sehingga keduanya itu menjadi satu daging. Demikianlah mereka bukan lagi dua, melainkan satu. Karena itu, apa yang telah dipersatukan Allah, tidak boleh diceraikan manusia.'
+    content: 'Sebab pada awal dunia, Allah menjadikan mereka laki-laki dan perempuan, sebab itu laki-laki akan meninggalkan ayahnya dan ibunya dan bersatu dengan istrinya, sehingga keduanya itu menjadi satu daging. Demikianlah mereka bukan lagi dua, melainkan satu. Karena itu, apa yang telah dipersatukan Allah, tidak boleh diceraikan manusia.'
   },
   {
     verse: 'Efesus 5 : 33',
-    contentd: 'Bagaimanapun juga, bagi kamu masing-masing berlaku: kasihilah isterimu seperti dirimu sendiri dan istri hendaklah menghormati suaminya.'
+    content: 'Bagaimanapun juga, bagi kamu masing-masing berlaku: kasihilah isterimu seperti dirimu sendiri dan istri hendaklah menghormati suaminya.'
   },
   {
     verse: 'Yakobus 1 : 12',
-    contentd: 'Berbahagialah orang yang bertahan dalam pencobaan, sebab apabila ia sudah tahan uji, ia akan menerima mahkota kehidupan yang dijanjikan Allah kepada barangsiapa yang mengasihi Dia.'
+    content: 'Berbahagialah orang yang bertahan dalam pencobaan, sebab apabila ia sudah tahan uji, ia akan menerima mahkota kehidupan yang dijanjikan Allah kepada barangsiapa yang mengasihi Dia.'
   },
   {
     verse: '1 Korintus 7 : 14',
-    contentd: 'Karena suami yang tidak beriman itu dikuduskan oleh istrinya dan istri yang tidak beriman itu dikuduskan oleh suaminya. Andaikata tidak demikian, niscaya anak-anakmu adalah anak cemar, tetapi sekarang mereka adalah anak kudus.'
+    content: 'Karena suami yang tidak beriman itu dikuduskan oleh istrinya dan istri yang tidak beriman itu dikuduskan oleh suaminya. Andaikata tidak demikian, niscaya anak-anakmu adalah anak cemar, tetapi sekarang mereka adalah anak kudus.'
   },
   {
     verse: '1 Korintus 13 : 4',
-    contentd: 'Kasih itu sabar; kasih itu murah hati; ia tidak cemburu. Ia tidak memegahkan diri dan tidak sombong.'
+    content: 'Kasih itu sabar; kasih itu murah hati; ia tidak cemburu. Ia tidak memegahkan diri dan tidak sombong.'
   },
   {
     verse: 'Amsal 18 : 22',
-    contentd: 'Siapa mendapat istri, mendapat sesuatu yang baik dan ia dikenan Tuhan.'
+    content: 'Siapa mendapat istri, mendapat sesuatu yang baik dan ia dikenan Tuhan.'
   },
-  { verse: 'You may also like', contentd: '' },
-  { verse: 'About the author', contentd: '' }
+  {
+    verse: '1 Korintus 1:5',
+    content: 'Sebab di dalam Dia kamu telah menjadi kaya dalam segala hal: dalam segala macam perkataan dan segala macam pengetahuan.'
+  },
+  {
+    verse: '1 Korintus 11:12',
+    content: 'Sebab sama seperti perempuan besal dari laki-laki, demikian pula laki-laki dilahirkan oleh perempuan; dan segala sesuatu berasal dari Allah.'
+  },
+  {
+    verse: '2 Korintus 4:16',
+    content: 'Sebab itu kami tidak tawar hati, tetapi meskipun manusia lahiriah kami semakin merosot, namun manusia batiniah kami dibaharui dari sehari ke sehari.'
+  },
+  {
+    verse: '2 Korintus 9:15',
+    content: 'Syukur kepada Allah karena karunia-Nya yang tak terkatakan itu!'
+  },
+  {
+    verse: '2 Petrus 3:18',
+    content: 'Tetapi bertumbuhlah dalam kasih karunianya dan dalam pengenalan akan Tuhan yang juru selamat kita, Yesus Kristus. Bagi-Nya kemuliaan, sekarang dan sampai selama-lamanya.'
+  },
+  {
+    verse: '2 Raja-raja 18:10',
+    content: 'Direbutlah itu sesudah lewat tiga tahun; dalam tahun keenam zaman Hizkia–itulah tahun kesembilan zaman Hosea, raja Israel–direbutlah Samaria.'
+  },
+  {
+    verse: 'Amsal 3:1-2',
+    content: 'Hai anakku, janganlah engkau melupakan ajaranku, dan biarlah haitmu memelihara perintahku, karena panjang umur dan lanjut usia serta sejahtera akan ditambahkannya kepadamu.'
+  },
+  {
+    verse: 'Amsal 3:6',
+    content: 'Akuilah Dia dalam segala lakumu, maka Ia akan meluruskan jalanmu.'
+  },
+  {
+    verse: 'Amsal 3:16',
+    content: 'Umur panjang ada di tangan kanannya, di tangan kirinya kekayaan dan kehormatan.'
+  },
+  {
+    verse: 'Amsal 4:10',
+    content: 'Hai anakku, dengarkanlah dan terimalah perkataanku, supaya tahun hidupmu menjadi banyak.'
+  },
+  {
+    verse: 'Amsal 9:11',
+    content: 'Karena oleh aku (hikmat) umurmu diperpanjang, dan tahun-tahun hidupmu ditambah.'
+  },
+  {
+    verse: 'Amsal 10:27',
+    content: 'Takut akan Tuhan memperpanjang umur, tetapi tahun-tahun orang fasik diperpendek.'
+  },
+  {
+    verse: 'Amsal 11:19',
+    content: 'Siapa berpegang pada kebenaran yang sejati, menuju hidup, tetapi siapa mengejar kejahatan, menuju kematian.'
+  },
+  {
+    verse: 'Ayub 10:5',
+    content: 'Apakah hari-hari-Mu seperti hari-hari manusia, tahun-tahun-Mu seperti hari-hari orang laki-laki.'
+  },
+  {
+    verse: 'Bilangan 6:24-26',
+    content: 'Tuhan memberkati engkau dan melindungi engkau; Tuhan menyinari engkau dengan wajah-Nya dan memberi engkau kasih karunia; Tuhan menghadapkan wajah-Nya kepadamu dan memberi engkau damai sejahtera.'
+  },
+  {
+    verse: 'Efesus 1:14',
+    content: 'Dan Roh Kudus itu adalah jaminan bagian kita sampai memperoleh kita seluruhnya, yitu penebusan yang menjadikan kita milik Allah, untuk memuji kemuliaannya.'
+  },
+  {
+    verse: 'Efesus 2:10',
+    content: 'Karena kita ini buatan Allah, diciptakan dalam Kristus Yesus untuk melakukan pekerjaan baik, yang dipersiapkan Allah sebelumnya. Ia mau, supaya kita hidup di dalamnya.'
+  },
+  {
+    verse: 'Filipi 4:8',
+    content: 'Jadi akhirnya, saudara-saudara, semua yang benar, semua yang mulia, semua yang adil, semua yang suci, semua yang manis, semua yang sedap didengar, semua yang disebut kebajikan dan patut dipuji, pikirkanlah semuanya itu.'
+  },
+  {
+    verse: 'Galatia 6:9',
+    content: 'Janganlah kita jemu-jemu berbuat baik, karena apabila sudah datang waktunya, kita akan menuai, jika tidak menjadi lemah.'
+  },
+  {
+    verse: 'Ibrani 1:1',
+    content: 'Setelah pada zaman dahulu Allah berulang kali dan dalam pelbagai cara berbicara kepada nenek moyang kita dengan perantaraan nabi-nabi.'
+  },
+  {
+    verse: 'Imamat 25:8',
+    content: 'Selanjutnya engkau harus menghitung tujuh tahun sabat, yakni tujuh kali tujuh tahun; sehingga masa tujuh tahun sabat itu sama dengan empat puluh sembilan tahun.'
+  },
+  {
+    verse: 'Kejadian 40:20',
+    content: 'Dan terjadilah pada hari ketiga, hari kelahiran Firaun, maka Firaun mengadakan perjamuan untuk semua pegawainya. Ia meninggikan kepala juru minuman dan kepala juru roti itu di tengah-tengah para pegawainya.'
+  },
+  {
+    verse: 'Keluaran 13:10',
+    content: 'Haruslah kaupegang ketetapan ini pada waktunya yang sudah ditentukan, dari tahun ke tahun.'
+  },
+  {
+    verse: 'Keluaran 20:12',
+    content: 'Hormatilah ayahmu dan ibumu, supaya lanjut umurmu di tanah yang diberikan Tuhan, Allah, kepadamu.'
+  },
+  {
+    verse: 'Kisah Para Rasul 1:8',
+    content: 'Tetapi kamu akan menerima kuasa, kalau Roh Kudus turun ke atasmu, dan kamu akan menjadi saksi-Ku di Yerusalem dan di seluruh Yudea dan Samaria dan sampai ke ujung bumi.'
+  },
+  {
+    verse: 'Kolose 3:15',
+    content: 'Hendaklah damai sejahtera Kristus memerintah dalam hatimu, karena untuk itulah kamu telah dipanggil menjadi satu tubuh. Dan bersyukurlah.'
+  },
+  {
+    verse: 'Markus 6:21',
+    content: 'Akhirnya tiba juga kesempatan yang baik bagi Herodias, ketika Herodes pada hari ulang tahunnya mengadakan perjamuan untuk pembesar-pembesarnya, perwira-perwiranya dan orang-orang terkemuka di Galilea.'
+  },
+  {
+    verse: 'Matius 6:33',
+    content: 'Tetapi carilah dahulu kerajaan-Nya, maka semuanya itu akan ditambahkan kepadamu.'
+  },
+  {
+    verse: 'Matius 14:16',
+    content: 'Tetapi pada hari ulang tahun Herodes, menarilah anak perempuan Herodias di tengah-tengah mereka dan menyukakan hati Herodes.'
+  },
+  {
+    verse: 'Mazmur 16:11',
+    content: 'Engkau memberitahukan kepadaku jalan kehidupan; di hadapan-Mu ada sukacita berlimpah-limpah, dan tangan kanan-Mu ada nikmat senantiasa.'
+  },
+  {
+    verse: 'Mazmur 20:4-5',
+    content: 'Kiranya diberikan-Nya kepadamu apa yang kaukehendaki dan dijadikan-Nya berhasil apa yang kaurancangkan. Kami mau bersorak-sorai tentang kemenanganmu dan mengangkat panji-panji demi nama Allah kita; kiranya TUHAN memenuhi segala permintaanmu.'
+  },
+  {
+    verse: 'Mazmur 22:11',
+    content: 'Kepada-Mu aku diserahkan sejak aku lahir, sejak dalam kandungan ibuku Engkaulah Allahku.'
+  },
+  {
+    verse: 'Mazmur 23:6',
+    content: 'Kebajikan dan kemurahan belaka akan mengikuti aku, seumur hidupku; dan aku akan diam dalam rumah Tuhan sepanjang masa.'
+  },
+  {
+    verse: 'Mazmur 37:4-5',
+    content: 'dan bergembiralah karena TUHAN; maka Ia akan memberikan kepadamu apa yang diinginkan hatimu. Serahkanlah hidupmu kepada TUHAN dan percayalah kepada-Nya, dan Ia akan bertindak.'
+  },
+  {
+    verse: 'Mazmur 62:8',
+    content: 'Pada Allah ada keselamatanku dan kemuliaanku; gunung batu kekuatanku, tempat perlindunganku ialah Allah.'
+  },
+  {
+    verse: 'Mazmur 63:8',
+    content: 'Sungguh engkau telah menjadi pertolonganku, dan dalam naungan sayap-Mu aku bersorak-sorai.'
+  },
+  {
+    verse: 'Mazmur 66:20',
+    content: 'Terpujilah Allah, yang tidak menolah doaku dan tidak menjauhkan kasih setia-Nya dari padaku.'
+  },
+  {
+    verse: 'Mazmur 90:12',
+    content: 'Ajarlah kami menghitung hari-hari kami sedemikian, hingga kami beroleh hati yang bijaksana.'
+  },
+  {
+    verse: 'Mazmur 91:11',
+    content: 'Sebab malaikat-malaikat-Nya akan diperintahkan-Nya kepadamu untuk menjaga engkau di segala jalanmu.'
+  },
+  {
+    verse: 'Mazmur 91:16',
+    content: 'Dengan panjang umur akan Kukenyangkan dia, dan akan Kuperlihatkan kepadanya keselamatan dari pada-Ku.'
+  },
+  {
+    verse: 'Mazmur 92:13-15',
+    content: 'Orang benar akan bertunas seperti pohon korma, akan tumbuh subur seperti pohon aras di Libanon; mereka yang ditanam di bait Tuhan akan bertunas di pelataran Allah kita. Pada masa tua pun mereka masih berbuah, menjadi gemuk dan segar untuk memberitakan, bahwa Tuhan itu benar, bahwa Ia gunung batuku dan tidak ada kecurangan pada-Nya.'
+  },
+  {
+    verse: 'Mazmur 118:24',
+    content: 'Inilah hari yang dijadikan TUHAN, marilah kita bersorak-sorak dan bersukacita karenanya!'
+  },
+  {
+    verse: 'Mazmur 133:3',
+    content: 'Seperti embun gunung Hermon yang turun ke atas gunung-gunung Sion. Sebab ke sanalah Tuhan memerintahkan berkat, kehidupan untuk selama-lamanya.'
+  },
+  {
+    verse: 'Mazmur 145:17',
+    content: 'Tuhan itu adil dalam segala hal jalan-Nya, dan penuh kasih serta setia dalam segala perbuatan-Nya.'
+  },
+  {
+    verse: 'Mazmur 147:11',
+    content: 'Tuhan senang kepada orang-orang yang takut akan Dia, kepada orang-orang yang berharap akan kasih setia-Nya.'
+  },
+  {
+    verse: 'Pengkhotbah 11:8',
+    content: 'Oleh sebab itu jikalau orang panjang umurnya, biarlah ia bersukacita di dalamnya.'
+  },
+  {
+    verse: 'Ratapan 3:22-23',
+    content: 'Tak berkesudahan kasih setia Tuhan, tak habis-habisnya rahmat-Nya, selalu baru tiap pagi; besar kesetiaan-Mu!'
+  },
+  {
+    verse: 'Ratapan 3:25',
+    content: 'Tuhan adalah baik bagi orang yang berharap kepada-Nya, bagi jiwa yang mencari Dia.'
+  },
+  {
+    verse: 'Roma 5:5',
+    content: 'Dan pengharapan tidak mengecewakan, karena kasih Allah telah dicurahkan di dalam hati kita oleh Roh Kudus yang telah dikaruniakan kepada kita.'
+  },
+  {
+    verse: 'Ulangan 5:33',
+    content: 'Segenap jalan, yang diperintahkan kepadamu oleh Tuhan, Allahmu, haruslah kamu jalani, supaya kamu hidup, dan baik keadaanmu serta lanjut umurmu.'
+  },
+  {
+    verse: 'Ulangan 6:7',
+    content: 'haruslah engkau mengajarkannya berulang-ulang kepada anak-anakmu dan membicarakannya apabila engkau duduk di rumahmu, apabila engkau sedang dalam perjalanan, apabila engkau berbaring dan apabila engkau bangun.'
+  },
+  {
+    verse: 'Ulangan 28:8',
+    content: 'Tuhan akan memerintahkan berkat ke atasmu di dalam lumbungmu dan di dalam segala urusanmu; Ia akan memberkati engkau di negeri yang diberikan kepadamu oleh Tuhan, Allahmu.'
+  },
+  {
+    verse: 'Yakobus 1:12',
+    content: 'Berbahagialah orang yang bertahan dalam pencobaan, sebab apabila ia sudah tahan uji, ia akan meerima mahkota kehidupan yang dijanjikan Allah kepada barang siapa yang mengasihi dia.'
+  },
+  {
+    verse: 'Yakobus 1:17',
+    content: 'Setiap pemberian yang baik dan setiap anugerah yang sempurna, datangnya dari atas, diturunkan dari Bapa segala terang; pada-Nya tidak ada perubahan atau bayangan karena pertukaran.'
+  },
+  {
+    verse: 'Yakobus 1:18',
+    content: 'Atas kehendak-Nya sendiri ia telah menjadikan kita oleh firman kebenaran, supaya kita pada tingkat yang tertentu menjadi anak sulung di antara semua ciptaan-Nya.'
+  },
+  {
+    verse: 'Yakobus 4:8',
+    content: 'Mendekatlah kepada Allah, Ia akan mendekat kepadamu.'
+  },
+  {
+    verse: 'Yeremia 17:7',
+    content: 'Diberkatilah orang yang mengandalkan Tuhan, yang menaruh harapannya pada Tuhan!'
+  },
+  {
+    verse: 'Yeremia 29:11',
+    content: 'Sebab aku ini mengetahui rancangan-rancangan apa yang ada pada-Ku mengenai kamu, demikianlah firman Tuhan, yaitu rancangan damai sejahtera dan bukan rancangan kecelakaan, untuk memberi kepadamu hari depan yang penuh harapan.'
+  },
+  {
+    verse: 'Yesaya 29:1',
+    content: 'Celakalah Ariel, Ariel, kota tempat Daud berkemah! Biarlah tahun demi tahun perayaan-perayaan silih berganti!'
+  },
+  {
+    verse: 'Yesaya 40:31',
+    content: 'tetapi orang-orang yang menanti-nantikan TUHAN mendapat kekuatan baru: mereka seumpama rajawali yang naik terbang dengan kekuatan sayapnya; mereka berlari dan tidak menjadi lesu, mereka berjalan dan tidak menjadi lelah.'
+  },
+  {
+    verse: 'Yesaya 46:4',
+    content: 'Sampai masa tuamu Aku tetap Dia dan sampai masa putih rambutmu Aku menggendong kamu. Aku telah melakukannya dan mau menanggung kamu terus; Aku mau memikul kamu dan menyelamatkan kamu.'
+  },
+  {
+    verse: 'Yohanes 14:26',
+    content: 'Tetapi penghibur, yaitu Roh Kudus, yang akan diutus oleh Bapa dalam nama-Ku, Dialah yang akan mengajarkan segala sesuatu kepadamu dan akan mengingatkan kamu akan semua yang telah Kukatakan kepadamu.'
+  },
+  {
+    verse: 'Yohanes 15:7',
+    content: 'Jikalau kamu tinggal di dalam Aku dan firman-Ku tinggal di dalam kamu, mintalah apa saja yang kamu kehendaki, dan kamu akan menerimanya.'
+  },
+  {
+    verse: 'Yohanes 16:21',
+    content: 'Seorang perempuan berdukacita pada saat ia melahirkan, tetapi sesudah ia melahirkan anaknya, ia tidak ingat lagi akan penderitaannya, karena kegembiraan bahwa seorang manusia telah dilahirkan di dunia.'
+  },
+  {
+    verse: 'Zefanya 3:17',
+    content: 'Tuhan Allahmu ada di antaramu sebagai pahlawan yang memberi kemenangan. Ia bergirang karena engkau dengan sukacita, Ia membantu engkau dengan kasih-Nya.'
+  }
 ]

@@ -299,6 +299,12 @@
     verse: 'Amsal 18 : 22',
     content: '“Siapa mendapat istri, mendapat sesuatu yang baik dan ia dikenan Tuhan.”'
   },
-  { verse: 'You may also like', content: '' },
-  { verse: 'About the author', content: '' }
+  { 
+    verse: 'Zefanya 3:17', 
+    content: '“Tuhan Allahmu ada di antaramu sebagai pahlawan yang memberi kemenangan. Ia bergirang karena engkau dengan sukacita, Ia membantu engkau dengan kasih-Nya.“' 
+  },
+  { 
+    verse: 'Yohanes 16:21', 
+    content: '“Seorang perempuan berdukacita pada saat ia melahirkan, tetapi sesudah ia melahirkan anaknya, ia tidak ingat lagi akan penderitaannya, karena kegembiraan bahwa seorang manusia telah dilahirkan di dunia.“' 
+  }
 ]

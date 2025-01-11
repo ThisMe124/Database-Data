@@ -1,0 +1,52 @@
+Saya Minta Tolong Ke Kamu Untuk Menambahkan : 
+
+**Fitur Baru: Logging IP Request dan Manajemen IP Address**
+
+1. **Logging IP Request**:  
+   - Setiap kali pengguna melakukan request ke API menggunakan `apikey` mereka, IP address pengguna akan dicatat ke data mereka di database.  
+   - IP address ini disimpan dalam bentuk array (list) di objek data pengguna untuk memantau riwayat IP yang digunakan.  
+   - Jika IP sudah ada di array, maka tidak akan ditambahkan ulang (menghindari duplikasi).  
+
+2. **Endpoint Baru untuk Owner**:  
+   Hanya dapat diakses oleh pemilik API (`owner`) untuk mengelola IP address.
+
+   - **`/banip`**:  
+     Endpoint untuk memblokir IP tertentu.  
+     - Input: IP address yang ingin diblokir.  
+     - Proses: Menambahkan IP tersebut ke daftar blokir global (global banned IP list).  
+     - Output: Konfirmasi bahwa IP telah diblokir.
+
+   - **`/removebanip`**:  
+     Endpoint untuk menghapus blokir pada IP tertentu.  
+     - Input: IP address yang ingin dihapus dari daftar blokir.  
+     - Proses: Menghapus IP tersebut dari daftar blokir global.  
+     - Output: Konfirmasi bahwa blokir telah dihapus.
+
+   - **`/findipuser`**:  
+     Endpoint untuk mencari pengguna berdasarkan IP address tertentu.  
+     - Input: IP address yang ingin dicari.  
+     - Proses: Mencari IP tersebut di seluruh data pengguna dalam database.  
+     - Output: Data pengguna yang menggunakan IP tersebut, jika ditemukan. Jika tidak ada, kembalikan pesan bahwa IP tidak ditemukan.
+
+3. **Logika untuk IP yang Diblokir**:  
+   - Saat request diterima, sistem akan memeriksa apakah IP pengguna ada di daftar blokir global.  
+   - Jika IP diblokir, API akan langsung mengembalikan respon error (misalnya: `403 Forbidden`) tanpa memproses lebih lanjut.
+
+---
+
+**Contoh Alur Proses (Ilustrasi)**:  
+
+1. **Request dari User**:  
+   - Pengguna dengan `apikey` melakukan request ke API.  
+   - API mencatat IP pengguna ke array di data pengguna, jika belum tercatat.  
+
+2. **Pemilik API (Owner) Memblokir IP**:  
+   - Owner memanggil endpoint `/banip` dengan input IP `123.456.789.10`.  
+   - Sistem menambahkan IP tersebut ke daftar blokir global.  
+
+3. **IP Diblokir**:  
+   - Jika pengguna dengan IP `123.456.789.10` mencoba melakukan request, sistem memeriksa daftar blokir dan mengembalikan respon error tanpa memproses API.  
+
+4. **Owner Mencari IP**:  
+   - Owner memanggil endpoint `/findipuser` dengan input IP `111.222.333.44`.  
+   - Sistem mencari IP tersebut di seluruh data pengguna, lalu mengembalikan informasi pengguna yang terhubung dengan IP itu.

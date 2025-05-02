@@ -3,6 +3,8 @@
 </a>
 
 
-<a href="https://discord.com/users/773704914589188187">
-        <img src="http://utopia.pylex.xyz:10419/api/profile?userid=773704914589188187" alt="kirizz._:discord-profile"/>
-</a>
+# Stats
+<br>
+Discord:<br>
+![My Discord](http://utopia.pylex.xyz:10419/api/profile?userid=773704914589188187)<br>
+

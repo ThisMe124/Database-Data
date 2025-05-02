@@ -2,9 +2,8 @@
         <img src="https://discord.c99.nl/widget/theme-3/773704914589188187.png" alt="kirizz._:discord-profile"/>
 </a>
 
+## Connect with Me
 
-# Stats
-<br>
 Discord:<br>
-![My Discord](http://utopia.pylex.xyz:10419/api/profile?userid=773704914589188187)<br>
+![My Discord](http://utopia.pylex.xyz:10419/api/profile?userid=773704914589188187)
 
